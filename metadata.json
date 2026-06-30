@@ -1,0 +1,6 @@
+{
+  "name": "HR EduNet",
+  "description": "An educational resource sharing platform for Human Resource Management undergraduates at the University of Ruhuna. Features handouts, past papers, lecture notes, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
